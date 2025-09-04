@@ -1,5 +1,5 @@
 # Adidas-US-Sales
-Adidas Sales Analysis
+# Adidas Sales Analysis
 📊 Project Overview
 This project is a sales analysis of Adidas data using Microsoft Excel. It provides insights into sales trends, regional performance, product category-wise performance, and more using Excel functionalities such as Pivot Tables, Charts, Conditional Formatting, and basic formulas.
 
@@ -22,6 +22,7 @@ Excel is one of the most widely used tools in business analysis. This project de
 Automate using Excel Macros
 Export to Power BI for advanced dashboarding
 Add forecasting techniques
+
 📬 Contact
 Shaik Atif Ur Rahman
 Email: contact2atifurrahman@gmail.com
